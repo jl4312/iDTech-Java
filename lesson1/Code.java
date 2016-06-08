@@ -1,12 +1,4 @@
 /*
- * This defines a package which is required for all Java programs. For our
- * purposes, it is easiest to name the package com.idtech.<your name>. So
- * the syntax will be 
- *          package com.idtech.<your name>;
- */
-package com.idtech.ram;
-
-/*
  * This defines a class which we will discuss in a later lesson
  */
 public class Printing {
