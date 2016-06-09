@@ -80,4 +80,4 @@ In this lesson, you will learn about the core structure of Java's GUI and how to
 
 In this lesson, you will learn about the **List** interface (for your purposes it is a data structure) which can store data, unlike arrays, with a dynamic size. This means that you can add elements onto a list without specifying that the list has a certain length (i.e. a fixed size).
 
-#### TODO: Hyperlink all lessons
+#### TODO: Hyperlink all lessons (and within lessons)
