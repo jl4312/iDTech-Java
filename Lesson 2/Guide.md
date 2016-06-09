@@ -10,19 +10,19 @@ int num;
 ```
 Here `int` is the variable type or data type. The following is a list of common Java data types:
 
-**int** - stores integers (i.e. numbers that can be written without a fractional component)
+**int** - stores integers (i.e. positive and negative whole numbers)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.g. -1, 0, 5, 13, -47
 
-**double** - stores decimal numbers
+**double** - stores numbers with decimals
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.g. -1.3, 0.21, 5.0, 13.5, -47.100001
 
-**float** - stores decimal numbers (less precise than the `double` data type but uses less memory)
+**float** - stores numbers with decimals (less precise than the `double` data type but uses less memory)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.g. -1.3, 0.21, 5.0, 13.5, -47.100001
 
-**boolean** - stores a **true** or a **false**
+**boolean** - stores a **true** or a **false** (this will be discussed in more detail in a later lesson)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.g. true, false
 
@@ -34,7 +34,7 @@ Here `int` is the variable type or data type. The following is a list of common 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.g. hello, name, cOOl, Java, &1snn, !#hi
 
-The lowercased data types are called **primitives** and they exhibit some special properties which will be discussed in the methods lesson. Although the `String` data type is not a primitive it is included in this list because it is very useful and often exhibits the same properties as primitives.
+The lowercased data types (int, double, float, boolean, char) are called **primitives** and they exhibit some special properties which will be discussed in the methods lesson. Although the `String` data type is not a primitive it is included in this list because it is very useful and often exhibits the same properties as primitives.
 
 Note that these data types are all instances of what is formally known as a **reserved word** which means that you cannot use these data types as the names for any variable. Java cannot interpret this.
 
