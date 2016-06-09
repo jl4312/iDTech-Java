@@ -1,5 +1,7 @@
 # iDTech Java Programming
 
+This guide will walk you through the basics of Java programming.
+
 ## [Lesson 1](https://github.com/RamV13/iDTech-Java/tree/master/Lesson%201)
 
 #### Printing
