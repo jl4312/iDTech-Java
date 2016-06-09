@@ -26,13 +26,13 @@ Here `int` is the variable type or data type. The following is a list of common 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.g. true, false
 
-**char** - stores a single character
+**char** - stores a single character and is case-sensitive
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.g. a, ~, b, z, @
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.g. a, ~, b, z, @, C
 
-**String** - stores a sequence of characters (or text)
+**String** - stores a sequence of `chars` (or text)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.g. hello, name, cool, Java, &1snn, !#hi
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.g. hello, name, cOOl, Java, &1snn, !#hi
 
 The lowercased data types are called **primitives** and they exhibit some special properties which will be discussed in the methods lesson. Although the `String` data type is not a primitive it is included in this list because it is very useful and often exhibits the same properties as primitives.
 
@@ -46,4 +46,4 @@ int int;
 double boolean;
 ```
 
-In general variables should start with lowercase letters. You can read more about conventions for variable naming [here](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html). Please look into CamelCase as it is one of the most important aspects of naming in Java.
+In general variables should start with lowercase letters. You can read more about conventions for variable naming [here](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html). Please look into [lowerCamelCase](http://c2.com/cgi/wiki?LowerCamelCase) as it is one of the most important aspects of naming in Java.
