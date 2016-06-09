@@ -1,12 +1,12 @@
 # iDTech Java Programming
 
-## Lesson 1
+## [Lesson 1](https://github.com/RamV13/iDTech-Java/tree/master/Lesson%201)
 
 #### Printing
 
 In this lesson, you will learn how to write a program that can print a message to the screen, also known as the console.
 
-## Lesson 2
+## [Lesson 2](https://github.com/RamV13/iDTech-Java/tree/master/Lesson%202)
 
 #### Variables
 
