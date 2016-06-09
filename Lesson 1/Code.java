@@ -1,9 +1,11 @@
-/*
+/**
+ * Code for Lesson 1: Printing
+ *
  * This defines a class which we will discuss in a later lesson
  */
 public class Printing {
 
-    /* 
+    /**
      * For all Java programs, the block of code within the curly braces below
      * is the first thing that runs when the program is run. This is called the
      * main method. The syntax is always 
