@@ -26,13 +26,13 @@ Here `int` is the variable type or data type. The following is a list of common 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.g. true, false
 
-**char** - stores a single character and is case-sensitive
+**char** - stores a single character, is case-sensitive, and is marked by single quotation marks
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.g. a, ~, b, z, @, C
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.g. 'a', '~', 'b', 'z', '@', 'C'
 
-**String** - stores a sequence of `chars` (or text)
+**String** - stores a sequence of `chars` (text) and is marked by double quotation marks
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.g. hello, name, cOOl, Java, &1snn, !#hi
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.g. "hello", "name", "cOOl", "Java", "&1snn", "!#hi"
 
 The lowercased data types (int, double, float, boolean, char) are called **primitives** and they exhibit some special properties which will be discussed in the methods lesson. Although the `String` data type is not a primitive it is included in this list because it is very useful and often exhibits the same properties as primitives.
 
