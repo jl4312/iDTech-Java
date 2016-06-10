@@ -8,7 +8,7 @@ Ex.
 ```Java
 int num;
 ```
-Here `int` is the variable type or data type. The following is a list of common Java data types:
+Here `int` is the data type and `num` is the variable name. The following is a list of common Java data types:
 
 **int** - stores integers (i.e. positive and negative whole numbers)
 
