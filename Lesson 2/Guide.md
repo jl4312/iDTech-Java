@@ -40,10 +40,10 @@ Note that these data types are all instances of what is formally known as a **re
 
 Ex.
 ```Java
-int int;
+int int; // this is incorrect!
 ```
 ```Java
-double boolean;
+double boolean; // this is incorrect!
 ```
 
 In general variables should start with lowercase letters. You can read more about conventions for variable naming [here](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html). Please look into [lowerCamelCase](http://c2.com/cgi/wiki?LowerCamelCase) as it is one of the most important aspects of naming in Java.
