@@ -12,3 +12,8 @@ Some syntax notes:
 - Every line of Java code should end in a semicolon (`;`) unless it ends in curly braces (i.e. `{` or `}`)
 - Java does not recognize any characters on the same line following `//` and the `//` is used to write notes within the code for the programmer or others looking at the code. These are called comments. It is VERY VERY VERY useful to write these comments because good documentation helps you, the programmer, and helps others when they are looking at your code and trying to help you. 
 - A way to write multiline comments is by using `/*` to start the comment and `*/` to end it (see the [code](https://github.com/RamV13/iDTech-Java/blob/master/Lesson%201/Code.java) for an example of this). Note that whenever a `/**` is used to begin the comment, this is used for `Javadoc` which you can read more about [here](https://en.wikipedia.org/wiki/Javadoc).
+
+# User Input
+
+Java provides you with a **class** (more on this in later lessons) called `Scanner` which enables you to read user input.
+This means you can type something for your program to read in and use. See the [code](https://github.com/RamV13/iDTech-Java/blob/master/Lesson%201/Code.java) to see how to use the `Scanner`.
