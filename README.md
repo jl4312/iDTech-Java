@@ -4,9 +4,10 @@ This guide will walk you through the basics of Java programming.
 
 ## [Lesson 1](https://github.com/RamV13/iDTech-Java/tree/master/Lesson%201)
 
-#### Printing
+#### Printing/User Input
 
 In this lesson, you will learn how to write a program that can print a message to the screen, also known as the console.
+You will also learn how to read input from the user.
 
 ## [Lesson 2](https://github.com/RamV13/iDTech-Java/tree/master/Lesson%202)
 
