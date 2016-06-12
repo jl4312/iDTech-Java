@@ -15,13 +15,13 @@ You will also learn how to read input from the user.
 
 In this lesson, you will learn what a variable is, all the different types of variables, and how to use these variables.
 
-## Lesson 3
+## [Lesson 3](https://github.com/RamV13/iDTech-Java/blob/master/Lesson%203)
 
 #### Arithmetic Operators
 
 In this lesson, you will learn the syntax of manipulating numbers using arithmetic operators such as addition.
 
-## Lesson 4
+## [Lesson 4](https://github.com/RamV13/iDTech-Java/blob/master/Lesson%204)
 
 #### Conditionals
 
