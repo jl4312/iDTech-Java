@@ -27,7 +27,7 @@ In this lesson, you will learn the syntax of manipulating numbers using arithmet
 
 In this lesson, using **if statements**, **switch statements**, and **boolean operators**, you will learn how to write programs that exhibit different behavior (i.e. execute different blocks of code and/or change certain variable values) depending on whether some condition is true or false. This introduces real logic to the code.
 
-## Lesson 5
+## [Lesson 5](https://github.com/RamV13/iDTech-Java/blob/master/Lesson%205)
 
 #### Loops
 
