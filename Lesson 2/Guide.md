@@ -47,3 +47,18 @@ double boolean; // this is incorrect!
 ```
 
 In general variables should start with lowercase letters. You can read more about conventions for variable naming [here](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html). Please look into [lowerCamelCase](http://c2.com/cgi/wiki?LowerCamelCase) as it is one of the most important aspects of naming in Java.
+
+
+#### Casting
+
+Casting is a way of converting a variable of one data type into another data type. For example, you can convert an `int` into a `double`. You will quickly notice that not all casts work, meaning that you cannot simply cast an `int` to a `String`. The syntax for casting is as follows:
+
+```Java
+<Original Data Type> <Variable 1> = <Value 1>;
+<New Data Type> <Variable 2> = (<New Data Type>) <Variable 1>;
+```
+Ex.
+```Java
+int i = 13;
+double d = (double) i;
+```
