@@ -46,8 +46,9 @@ int int; // this is incorrect!
 double boolean; // this is incorrect!
 ```
 
-In general variables should start with lowercase letters. You can read more about conventions for variable naming [here](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html). Please look into [lowerCamelCase](http://c2.com/cgi/wiki?LowerCamelCase) as it is one of the most important aspects of naming in Java.
+#### Scope
 
+One more important thing to note is that variables declared/defined inside a set of curly braces can only be used INSIDE those curly braces. This restriction is known as **scope**.
 
 #### Casting
 
@@ -62,3 +63,7 @@ Ex.
 int i = 13;
 double d = (double) i;
 ```
+
+#### Style
+
+In general variables should start with lowercase letters. You can read more about conventions for variable naming [here](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html). Please look into [lowerCamelCase](http://c2.com/cgi/wiki?LowerCamelCase) as it is one of the most important aspects of naming in Java.
