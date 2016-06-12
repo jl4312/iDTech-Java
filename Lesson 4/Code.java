@@ -37,7 +37,20 @@ public class Conditionals {
         case 13: System.out.println("YAY! num is 13 (aka Nash's number)");
             break;
         default: System.out.println("BOOOOO! num is not 1, 2, or 13");
+            break;
         }
+        
+        // The following block exhibits the same behavior as the switch
+        // statement but uses an else-if part in addition to a normal if
+        // statement.
+        if (num == 1)
+            System.out.println("WOOHOO! num is 1");
+        else if (num == 2)
+            System.out.println("YES! num is 2");
+        else if (num == 13)
+            System.out.println("YAY! num is 13 (aka Nash's number)");
+        else
+            System.out.println("BOOOOO! num is not 1, 2, or 13");
         
         // The following if statements use some boolean operators with if
         // statements and print appropriate messages.
