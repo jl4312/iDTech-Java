@@ -77,6 +77,11 @@ public class Variables {
         // the following prints the value of str
         System.out.println("str: "+str);
         
+        // CASTING
+        
+        // The following lines convert an int to a double using a cast
+        int i = 1;
+        double d  = (double) i;
     }
     
 }
